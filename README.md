@@ -114,9 +114,14 @@ Average measured interrupt to DPC latency (µs):       1.673678
 
 Lower numbers are better
 
+My specs:
+
 CPU: Ryzen 5 2600
+
 Motherboard: Aorus B450 M
+
 Ram: 8GB
+
 GPU: GTX 1650 OC
 
 My cpu is worse for input delay because of infinity fabric and ccx core complexes
