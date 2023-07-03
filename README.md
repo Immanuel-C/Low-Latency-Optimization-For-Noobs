@@ -88,6 +88,8 @@ Possible values, in decimal:
 
 40 = Short, fixed (18:18)
 
+You can also go into process lasso and press Options/Tools/Tweak Windows NT Schedule and put in your desired quantum and foreground boost. 
+
 I chose 22 because I want the lowest input delay.
 
 CPU, GPU and RAM overclock
